@@ -15,4 +15,5 @@ link_directories(${GTKMM_LIBRARY_DIRS})
 include_directories(${GTKMM_INCLUDE_DIRS})
 
 add_subdirectory(chapter_03)
+add_subdirectory(chapter_06)
 
