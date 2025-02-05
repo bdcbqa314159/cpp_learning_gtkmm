@@ -16,4 +16,5 @@ include_directories(${GTKMM_INCLUDE_DIRS})
 
 add_subdirectory(chapter_03)
 add_subdirectory(chapter_06)
+add_subdirectory(chapter_07)
 
